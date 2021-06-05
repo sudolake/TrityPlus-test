@@ -186,3 +186,8 @@ border-radius: 1%;
     }
   }
 }
+@media (max-width:400px){
+    .s-menu-item1{
+    padding-top:42px!important;
+    }
+}
